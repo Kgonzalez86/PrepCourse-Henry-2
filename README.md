@@ -1,2 +1,1 @@
-# PrepCourse-Henry-2
-Repositorio de prueba 2
+Kendall Este proyecto es una prueba para crear un repositorio
